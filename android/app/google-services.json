@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412188414145",
+    "project_id": "mapket-32fe9",
+    "storage_bucket": "mapket-32fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412188414145:android:5ad2b67997e7eb4d370440",
+        "android_client_info": {
+          "package_name": "com.mapket.mapket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412188414145-2mhds7djgmn9sf08afidqbqksfn1b7is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywnQdIhd6WfJbvkOJAoD2bIjelgdc8Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412188414145-2mhds7djgmn9sf08afidqbqksfn1b7is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
